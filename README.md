@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @jefflgaol
-- 👀 I’m interested in circuit design and computer vision
+- 👀 I’m interested in electrical circuit, artifical intelligence and computer vision
 - 🌱 I’m currently learning on how to design unmanned aerial vehicle from scratch
 - 📫 Please feel free to contact me via IG: @jefflgaol
