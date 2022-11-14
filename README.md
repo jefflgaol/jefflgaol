@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @jefflgaol
 - 👀 I’m interested in electrical circuit, artifical intelligence and computer vision
-- 🌱 I’m currently learning on how to design unmanned aerial vehicle from scratch
+- 🌱 I’m currently learning on how to design unmanned aerial vehicle from scratch. Help me, 我覺得很難!
 - 📫 Please feel free to contact me via IG: @jefflgaol
